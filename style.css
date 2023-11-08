@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .game-container {
+    background-color: yellow;
+    width: 400px;
+    height: 600px;
+    position: relative;
+  }
+  
+  .doodler {
+    width: 60px;
+    height: 85px;
+    background-color: brown;
+    position: absolute;
+  }
+  
+  .platform {
+    width: 85px;
+    height: 15px;
+    background-color: green;
+    position: absolute;
+  }
+  
