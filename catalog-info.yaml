@@ -4,6 +4,7 @@ metadata:
   name: DoodleJump
   annotations:
     circleci.com/project-slug: github/parzival2332/DoodleJump
+    github.com/project-slug: parzival2332/DoodleJump
 spec:
   type: service
   owner: guest
